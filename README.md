@@ -3,8 +3,6 @@
 End-to-end churn analytics: SQL/Power Query cleaning → Python logistic
 regression → interactive Power BI dashboard.
 
-![Executive Summary](images/page1.png)
-
 ## Problem
 
 Telecom retention teams react after customers cancel. Retaining a customer
@@ -66,7 +64,6 @@ where I can bring this end-to-end problem-solving approach to real
 business data.
 
 **Let's connect:**
-- Email: nabhakawadapure0308@gmail.com
 - LinkedIn: [www.linkedin.com/in/vaishali-kawadapure-26b629258]
 
 *Open to feedback on this project — feel free to raise an issue or reach out!*
