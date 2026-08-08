@@ -54,7 +54,7 @@ flowchart TD
 
 ## About Me
 
-Hi, I'm **Nabha Kawadapure** — an aspiring **Data Analyst** (fresher)
+Hi, I'm *Vaishali Kawadapure** — an aspiring **Data Analyst** (fresher)
 passionate about turning raw data into business decisions. This project
 reflects my hands-on skills across the full analytics stack: **SQL,
 Python, Power BI, and DAX**.
